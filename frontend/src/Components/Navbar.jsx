@@ -13,7 +13,7 @@ const Navbar = () => {
             <div className="collapse navbar-collapse" id="navbarTogglerDemo03">
               <ul className="navbar-nav me-auto mb-2 mb-lg-0">
                 <li className="nav-item">
-                  <button className="nav-link active" aria-current="page" data-bs-toggle="modal" data-bs-target="#staticBackdrop">Add new note</button>
+                  <button className="nav-link active" aria-current="page" data-bs-toggle="modal" data-bs-target="#staticBackdrop">Add new task</button>
                 </li>
               </ul>
             </div>
